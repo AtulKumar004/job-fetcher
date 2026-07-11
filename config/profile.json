@@ -1,0 +1,28 @@
+{
+  "roleVariants": [
+    "Frontend Developer",
+    "Next.js Developer",
+    "React Developer"
+  ],
+  "mustHaveSkills": [
+    "React",
+    "Next.js",
+    "JavaScript"
+  ],
+  "niceToHaveSkills": [
+    "TypeScript",
+    "Testing",
+    "Performance",
+    "Accessibility"
+  ],
+  "experienceYears": 5,
+  "locations": [
+    "Delhi NCR",
+    "Remote"
+  ],
+  "excludeKeywords": [
+    "Intern",
+    "10+ years"
+  ],
+  "minScore": 50
+}
